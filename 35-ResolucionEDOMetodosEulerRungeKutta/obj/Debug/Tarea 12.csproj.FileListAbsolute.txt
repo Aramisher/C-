@@ -1,0 +1,7 @@
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\bin\Debug\Tarea 12.exe.config
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\bin\Debug\Tarea 12.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\bin\Debug\Tarea 12.pdb
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\obj\Debug\Tarea 12.csproj.AssemblyReference.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\obj\Debug\Tarea 12.csproj.CoreCompileInputs.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\obj\Debug\Tarea 12.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 12\obj\Debug\Tarea 12.pdb

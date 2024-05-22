@@ -1,0 +1,7 @@
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\obj\Debug\Actividad 2 - Parte 1.csproj.AssemblyReference.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\obj\Debug\Actividad 2 - Parte 1.csproj.CoreCompileInputs.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\bin\Debug\Actividad 2 - Parte 1.exe.config
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\bin\Debug\Actividad 2 - Parte 1.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\bin\Debug\Actividad 2 - Parte 1.pdb
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\obj\Debug\Actividad 2 - Parte 1.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Actividad 2 - Parte 1\obj\Debug\Actividad 2 - Parte 1.pdb

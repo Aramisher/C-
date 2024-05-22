@@ -1,0 +1,7 @@
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\bin\Debug\Tarea 7.exe.config
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\bin\Debug\Tarea 7.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\bin\Debug\Tarea 7.pdb
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\obj\Debug\Tarea 7.csproj.AssemblyReference.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\obj\Debug\Tarea 7.csproj.CoreCompileInputs.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\obj\Debug\Tarea 7.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Tarea 7\obj\Debug\Tarea 7.pdb

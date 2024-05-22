@@ -1,0 +1,12 @@
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\Evidencia 2.exe.config
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\Evidencia 2.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\Evidencia 2.pdb
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\System.ValueTuple.dll
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\bin\Debug\System.ValueTuple.xml
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\obj\Debug\Evidencia 2.csproj.AssemblyReference.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\obj\Debug\Evidencia 2.csproj.CoreCompileInputs.cache
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\obj\Debug\Evidencia 2.csproj.CopyComplete
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\obj\Debug\Evidencia 2.exe
+C:\Users\Arami\OneDrive\Documentos\Tec\4to. Semestre\Métodos numéricos\Codigo\Evidencia 2\obj\Debug\Evidencia 2.pdb
